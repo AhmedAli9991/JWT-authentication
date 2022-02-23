@@ -8,7 +8,8 @@
 - how to make sessions stateless
 - how to work with Refresh tokens
 - Login and Signup
-- HTTPOnly Cookies 
+- HTTPOnly Cookies
+- using encryption to store passwords 
 
 ### About this Repository  
 
