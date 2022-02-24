@@ -10,6 +10,8 @@
 - Login and Signup
 - HTTPOnly Cookies
 - using encryption to store passwords 
+- bcrypt library 
+- enabling cookies to be sent between server and client
 
 ### About this Repository  
 
